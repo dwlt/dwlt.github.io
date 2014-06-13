@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Making | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/making/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What It Takes]]></title>
+    <link href="http://dwlt.github.io/blog/2011/07/15/what-it-takes/"/>
+    <updated>2011-07-15T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2011/07/15/what-it-takes</id>
+    <content type="html"><![CDATA[<p><a href="http://www.lettersofnote.com/">Letters of Note</a> is a site that collects
+&ldquo;fascinating letters, postcards, telegrams, faxes, and memos.&rdquo; There&rsquo;s a
+<a href="http://www.lettersofnote.com/2010/06/pixar-films-dont-get-finished-they-just.html">letter</a> from Pixar director <a href="http://www.imdb.com/name/nm0230032/">Pete Docter</a> (<em>Monsters, Inc.</em>, <em>Up</em>) originally posted last summer, but which I&rsquo;ve seen doing the rounds again recently.</p>
+
+<p>Mostly, people are picking up the closing line: <em>&ldquo;As John Lasseter likes to
+say, our films don&rsquo;t get finished, they just get released&rdquo;</em> &ndash; a common refrain
+from artists &ndash; but it&rsquo;s an earlier line that jumps out at me:</p>
+
+<blockquote><p>It takes a lot of work (and rework, and rework and rework) to get it right.</p></blockquote>
+
+<p>Related reading: <a href="http://grumpygamer.com/6843121"><em>The Vertical Slice</em></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[90% Of The Work]]></title>
+    <link href="http://dwlt.github.io/blog/2011/01/10/90-of-the-work/"/>
+    <updated>2011-01-10T00:00:00+00:00</updated>
+    <id>http://dwlt.github.io/blog/2011/01/10/90-of-the-work</id>
+    <content type="html"><![CDATA[<p><a href="http://mrgan.tumblr.com/post/2620498618/the-incident-one-year-ago">Neven</a>,
+talking about <a href="http://theincidentapp.com/">The Incident</a>:</p>
+
+<blockquote><p>A month into it, we were sitting on a surprisingly large chunk of the engine
+all ready to go, a concept well proven. It was everything else that took
+months and months more.</p></blockquote>
+
+<p>and</p>
+
+<blockquote><p>The pitch for the game isn’t half the work; it’s barely 5%.</p></blockquote>
+
+<p>In case you were wondering.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Iteration]]></title>
+    <link href="http://dwlt.github.io/blog/2010/12/09/iteration/"/>
+    <updated>2010-12-09T00:00:00+00:00</updated>
+    <id>http://dwlt.github.io/blog/2010/12/09/iteration</id>
+    <content type="html"><![CDATA[<blockquote><p>So lets say I’ll attack three or four scenes, and what I’ll do is I’ll write
+a draft and hand it in to Lee the director and he’ll go, ‘eh, X, Y and Z.’ So
+then I go back and I’ll go through that very small two-person feedback loop
+for five or six passes, basically, until Lee finally goes, ‘OK, I think that’s
+it.’</p></blockquote>
+
+<p>&mdash;<a href="http://blogs.indiewire.com/thompsononhollywood/2010/12/06/michael_arndt_talks_toy_story_3/">Michael Arndt Digs Into Toy Story 3 and the Genius of the Pixar System &ndash; Thompson on Hollywood</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Start With A Vision]]></title>
+    <link href="http://dwlt.github.io/blog/2010/08/09/start-with-a-vision/"/>
+    <updated>2010-08-09T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2010/08/09/start-with-a-vision</id>
+    <content type="html"><![CDATA[<blockquote><p>Edwin Land, inventor of the Polaroid camera, once said that his method of
+design was to start with a vision of what you want and then, one by one,
+remove the technical obstacles until you have it. I think that’s what Steve
+Jobs does. He starts with a vision rather than a list of features.</p></blockquote>
+
+<p>&mdash;<a href="http://www.wired.com/magazine/2010/07/ff_fred_brooks/">Master Planner: Fred Brooks Shows How to Design Anything | Magazine</a> (<a href="http://37signals.com/svn/posts/2499-the-critical-thing-about-the-design-process">via</a>)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Roll Up]]></title>
+    <link href="http://dwlt.github.io/blog/2009/10/06/roll-up-your-sleeves/"/>
+    <updated>2009-10-06T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2009/10/06/roll-up-your-sleeves</id>
+    <content type="html"><![CDATA[<blockquote><p>Roll up your sleeves.</p></blockquote>
+
+<p>&mdash;<a href="http://michellelipton.wordpress.com/2009/10/06/the-path-of-the-freelance-writer/">The Path of the Freelance Writer « Michelle Lipton</a></p>
+]]></content>
+  </entry>
+  
+</feed>

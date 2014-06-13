@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Industry | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/industry/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[When Is A Clone Not A Clone?]]></title>
+    <link href="http://dwlt.github.io/blog/2013/07/31/when-is-a-clone-not-a-clone/"/>
+    <updated>2013-07-31T11:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2013/07/31/when-is-a-clone-not-a-clone</id>
+    <content type="html"><![CDATA[<p>When it&rsquo;s a counterfeit.</p>
+
+<p>Over the years, there&rsquo;s been a lot of talk about clones in the games industry, but after reading this <a href="http://indiestatik.com/2013/07/30/someone-stole-original-artwork-from-slap-and-then-made-a-clone/">article on Indie Statik</a> about an Android game called <em>Slap!</em>, I think we (the industry) need to be clearer in our word choice.</p>
+
+<p>It&rsquo;s easy to throw the word &ldquo;clone&rdquo; around, but this incident &ndash; where the copycat game is &ldquo;actually using the original sprites from our game&rdquo; &ndash; I&rsquo;d like to suggest a different term:</p>
+
+<p><strong>counterfeit</strong>: <em>adj.</em> made in exact imitation of something valuable with the intention to deceive and defraud. (<a href="http://oxforddictionaries.com/definition/english/counterfeit">OED</a>)</p>
+
+<p>I think that&rsquo;s a much clearer description of what&rsquo;s happened in this case, and should be targeted by a DMCA.</p>
+
+<p>(As an aside, I do find it amusing that <em>Slap!</em> is &ldquo;based on&rdquo; the traditional game &ldquo;Red Hands&rdquo;, but the creator appears to claim that a Windows game called <em>Hand Smash</em> has &ldquo;ripped off the [<em>Slap!</em>] mechanic&rdquo;.)</p>
+]]></content>
+  </entry>
+  
+</feed>

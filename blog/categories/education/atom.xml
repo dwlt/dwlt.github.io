@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Education | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/education/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Teach Yourself Enough]]></title>
+    <link href="http://dwlt.github.io/blog/2011/06/14/teach-yourself-enough/"/>
+    <updated>2011-06-14T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2011/06/14/teach-yourself-enough</id>
+    <content type="html"><![CDATA[<p><a href="http://www.quora.com/Did-Dennis-Crowley-write-the-original-code-for-Foursquare-Dodgeball-himself">Did Dennis Crowley write the original code for Foursquare (Dodgeball) himself?</a></p>
+
+<blockquote><p>Incidentally, if you&rsquo;ve got an idea but aren&rsquo;t particularly technical you
+should really consider the example Dennis set here. He didn&rsquo;t really know what
+he was doing but he sat down, taught himself enough to crank out a prototype,
+and figured it out from there. Anyone can do this sort of thing with enough
+hard work.</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

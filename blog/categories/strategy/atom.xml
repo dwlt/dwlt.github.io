@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Strategy | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/strategy/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Switching Costs in Games]]></title>
+    <link href="http://dwlt.github.io/blog/2012/02/16/switching-costs-in-games/"/>
+    <updated>2012-02-16T09:49:00+00:00</updated>
+    <id>http://dwlt.github.io/blog/2012/02/16/switching-costs-in-games</id>
+    <content type="html"><![CDATA[<p>In this world of &ldquo;multiplayer games as a service&rdquo;, I see lots of chat about the power of <a href="http://en.wikipedia.org/wiki/Network_effect">network effects</a> but little about switching costs. Investopedia <a href="http://www.investopedia.com/terms/s/switchingcosts.asp">defines switching costs</a> as so:</p>
+
+<blockquote><p>The negative costs that a consumer incurs as a result of changing suppliers, brands or products. Although most prevalent switching costs are monetary in nature, there are also psychological, effort- and time-based switching costs.</p></blockquote>
+
+<p>In other words, there&rsquo;s a cost (usually non-monetary) involved in switching from one game with friends to another game of the same type with friends. In fact, this cost rockets when your new game is of the same type &ndash; I don&rsquo;t mean just in the same genre, but of games where the differences are not immediately apparent. The problem with the adage &ldquo;never judge a book by its cover&rdquo; is that people inevitably do judge things from a quick glance. So if your game looks quite a lot like <em>Scrabble</em> or Hangman, for example, then people will assume that it is quite a lot like <em>Scrabble</em> or Hangman, and stick with the game they already have that looks quite a lot like (or possibly is) <em>Scrabble</em> or Hangman.</p>
+
+<p>Even if you can get a few people to check your game out, you&rsquo;re then likely to suffer from the downside of network effects. Normally, network effects, where a service becomes more valuable the more people use it, are viewed as a positive. The downside of attempting to build something that relies on this, however, is that if there&rsquo;s no one there to play against, no one will hang around waiting for others to show up. That clearly poses problems in building momentum for your game.</p>
+
+<p>None of which is to say your game can&rsquo;t make that breakthrough against a well-established competitor, but it&rsquo;s going to have to work incredibly hard (and might take a long time) to do so.</p>
+]]></content>
+  </entry>
+  
+</feed>

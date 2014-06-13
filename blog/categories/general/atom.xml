@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: General | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Reading/Watching]]></title>
+    <link href="http://dwlt.github.io/blog/2011/02/25/readingwatching/"/>
+    <updated>2011-02-25T00:00:00+00:00</updated>
+    <id>http://dwlt.github.io/blog/2011/02/25/readingwatching</id>
+    <content type="html"><![CDATA[<p>Some stuff I&rsquo;ve been reading and watching recently:</p>
+
+<p><strong>John Lennon on Songwriting</strong></p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/lYPV-QYJI-k" frameborder="0" allowfullscreen></iframe>
+
+
+<p>(via <a href="http://hitrecordjoe.tumblr.com/post/3486447728/jaredgeller-john-lennon-on-songwriting">hitrecordjoe</a>)</p>
+
+<p><strong><a href="http://www.gamasutra.com/view/feature/6295/capturing_the_spirit_of_sesame_.php">Nathan Martz &amp; Tim Schafer on Once Upon A Monster</a></strong></p>
+
+<blockquote><p>Frankly, I feel kind of the same way about video games right now, that we&rsquo;re
+not nearly as creatively broad as we could be. We often stay very safe, and
+safe in some pretty often reprehensible directions, or at least thoroughly
+uncreative…. I think our medium can do many more things than that.</p></blockquote>
+
+<p>I heart <a href="http://www.doublefine.com/">Double Fine</a> in a big way at the moment.</p>
+
+<p><strong><a href="http://www.gamasutra.com/view/news/33140/Interview_Building_A_Brand_New_Pokemon_Universe_With_Black_And_White.php">The Importance of Silhouettes</a></strong></p>
+
+<blockquote><p>… a key method for making sure that a Pokemon truly doesn&rsquo;t overlap with
+ones that have been created in the past is that they render it in silhouette
+completely black, and compare its shape with past designs. Each silhouette
+must be completely identifiable as different from others.</p></blockquote>
+
+<p>I&rsquo;ve spoken with people about this in the past, and it&rsquo;s one thing the games
+industry generally tends not to do that well. The characters of <em><a href="http://www.valvesoftware.com/games/tf2.html">Team Fortress 2</a></em> are a great example
+of where it is done well, though.</p>
+]]></content>
+  </entry>
+  
+</feed>

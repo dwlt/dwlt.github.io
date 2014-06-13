@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 5 Things | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/5-things/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[5 Things I'm Thinking Right Now]]></title>
+    <link href="http://dwlt.github.io/blog/2010/07/12/5-things-im-thinking-right-now/"/>
+    <updated>2010-07-12T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2010/07/12/5-things-im-thinking-right-now</id>
+    <content type="html"><![CDATA[<p>Following on from <a href="http://www.wonderlandblog.com/wonderland/2010/07/5-things-im-thinking-right-now.html">Alice</a> and
+<a href="http://www.kimpallister.com/2010/07/5-things-im-thinking-right-now.html">Kim</a>
+and <a href="http://danhon.com/2010/07/12/5-things-im-thinking-right-now/">Dan</a>, here
+are the five things I&rsquo;m thinking right now:</p>
+
+<ol>
+<li> The funding models for games are all there; the problem comes at the other end with actually getting something out there. Clearly this is partially about the platforms and forced scarcity, but as another example there&rsquo;s no equivalent of the film festival circuit. And even if there was, the publishers are so scared of taking a risk on anything they&rsquo;re never going to find the games equivalent of <em>Blair Witch Project</em> (insert your favourite low-budget/huge-earning here).</li>
+<li> To anyone who thinks that Android is somehow &ldquo;better&rdquo; for developers, you&rsquo;ve clearly blanked out/weren&rsquo;t around for the first ten years of mobile games development.</li>
+<li> There&rsquo;s so much for the games industry to learn from the TV, film, radio, music or restaurant industries that it hurts my brain. If you think otherwise, I say you&rsquo;re looking in the wrong places.</li>
+<li> Nintendo do so many things so, so well, that it makes the things they do badly that much more annoying.</li>
+<li> To paraphrase Greg Costikyan from a GDC rant a few years back, THE WORLD IS NOT A GIANT FUNNEL DESIGNED TO POUR MONEY INTO YOUR WALLET. Get over it.</li>
+</ol>
+
+
+<p>You&rsquo;ll notice none of those things involve food, but that&rsquo;s more of an
+underlying constant thought rather than a specific one.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Quotation | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/quotation/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What It Takes]]></title>
+    <link href="http://dwlt.github.io/blog/2011/07/15/what-it-takes/"/>
+    <updated>2011-07-15T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2011/07/15/what-it-takes</id>
+    <content type="html"><![CDATA[<p><a href="http://www.lettersofnote.com/">Letters of Note</a> is a site that collects
+&ldquo;fascinating letters, postcards, telegrams, faxes, and memos.&rdquo; There&rsquo;s a
+<a href="http://www.lettersofnote.com/2010/06/pixar-films-dont-get-finished-they-just.html">letter</a> from Pixar director <a href="http://www.imdb.com/name/nm0230032/">Pete Docter</a> (<em>Monsters, Inc.</em>, <em>Up</em>) originally posted last summer, but which I&rsquo;ve seen doing the rounds again recently.</p>
+
+<p>Mostly, people are picking up the closing line: <em>&ldquo;As John Lasseter likes to
+say, our films don&rsquo;t get finished, they just get released&rdquo;</em> &ndash; a common refrain
+from artists &ndash; but it&rsquo;s an earlier line that jumps out at me:</p>
+
+<blockquote><p>It takes a lot of work (and rework, and rework and rework) to get it right.</p></blockquote>
+
+<p>Related reading: <a href="http://grumpygamer.com/6843121"><em>The Vertical Slice</em></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Making Toys]]></title>
+    <link href="http://dwlt.github.io/blog/2011/04/05/making-toys/"/>
+    <updated>2011-04-05T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2011/04/05/making-toys</id>
+    <content type="html"><![CDATA[<blockquote><p>At its heart, making toys is about using existing technology skilfully to
+deliver a surprising experience. It&rsquo;s not a matter of whether or not the tech
+is cutting edge, but whether or not people think it&rsquo;s fun.</p></blockquote>
+
+<p>&mdash;<a href="http://quotabl.es/quotes/67253">Saturo Iwata, Nintendo&rsquo;s President &amp; CEO, quoted in Nintendo Magic</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Attention to Detail]]></title>
+    <link href="http://dwlt.github.io/blog/2010/12/22/attention-to-detail/"/>
+    <updated>2010-12-22T00:00:00+00:00</updated>
+    <id>http://dwlt.github.io/blog/2010/12/22/attention-to-detail</id>
+    <content type="html"><![CDATA[<blockquote><p>Attention to detail, like most facets of truly good design, can’t be (and
+never is) added later. It’s an entire development philosophy, methodology, and
+culture.</p></blockquote>
+
+<p>&mdash;<a href="http://www.marco.org/2402097858">Marco.org &ndash; We don’t question the power of the OS, but the…</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quote of the Week]]></title>
+    <link href="http://dwlt.github.io/blog/2010/09/10/quote-of-the-week/"/>
+    <updated>2010-09-10T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2010/09/10/quote-of-the-week</id>
+    <content type="html"><![CDATA[<blockquote><p>These are non-refundable tax credits, so you get them whether you make money
+or not. So, the way they are designed works very well for industry.</p></blockquote>
+
+<p>&mdash;Courtesy of <a href="http://www.gamasutra.com/view/feature/6117/uk_vs_canada_do_tax_breaks_build_.php">Danielle Parr of Canada&rsquo;s ESA</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Produce and Invest]]></title>
+    <link href="http://dwlt.github.io/blog/2010/05/05/produce-and-invest/"/>
+    <updated>2010-05-05T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2010/05/05/produce-and-invest</id>
+    <content type="html"><![CDATA[<blockquote><p>Rapidly improving design permeates every branch of manufacture … To keep
+abreast with foreign nations… we must ourselves produce and invest.</p></blockquote>
+
+<p>&mdash;John Muir, Lord Provost of Glasgow, 1890</p>
+]]></content>
+  </entry>
+  
+</feed>

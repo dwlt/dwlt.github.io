@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Me, Myself & I | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/me-myself-and-i/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Recent Round-up]]></title>
+    <link href="http://dwlt.github.io/blog/2010/10/14/recent-round-up/"/>
+    <updated>2010-10-14T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2010/10/14/recent-round-up</id>
+    <content type="html"><![CDATA[<p>This is an &lsquo;all about me&rsquo; PSA:</p>
+
+<ul>
+<li><p>I&rsquo;m (or at least, my words are) on page 60 of the Oct 4 issue of <a href="http://www.holyrood.com/">Holyrood</a> magazine. You&rsquo;ve already read them, however, as it&rsquo;s an edited version of my <a href="http://blog.dwlt.net/post/1119920979/scottish-games-in-transition"><em>In Transition</em> post</a> from a few weeks back.</p></li>
+<li><p>I&rsquo;m now officially the games adviser for the <a href="http://www.culturalenterpriseoffice.co.uk/">Cultural Enterprise Office</a>. What&rsquo;s that?</p></li>
+</ul>
+
+
+<blockquote><p>Cultural Enterprise Office is Scotland’s specialist business support and
+development service for creative businesses and practitioners.</p></blockquote>
+
+<ul>
+<li><p>I gave a talk at <a href="http://www.scotlandis.com/ScotSoft2010">ScotSoft2010</a> on what I&rsquo;m calling Selfish Creativity, which seemed to be well received. More to come on that &ldquo;soon&rdquo;.</p></li>
+<li><p>I created an iPhone app for theatre company Cryptic (<a href="http://itunes.apple.com/us/app/cryptic/id393309677?mt=8">iTunes</a>). You can see a video of it in action <a href="http://www.cryptic.org.uk/news/cryptic-iphone-app/">here</a>.</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

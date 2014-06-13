@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: scotland | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/scotland/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[We're Not Famous Any More]]></title>
+    <link href="http://dwlt.github.io/blog/2012/08/06/were-not-famous-any-more/"/>
+    <updated>2012-08-06T10:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2012/08/06/were-not-famous-any-more</id>
+    <content type="html"><![CDATA[<p>Something disturbing happened at Casual Connect in Seattle. I had a conversation that went along the lines of:</p>
+
+<blockquote><p>Me: I&rsquo;m from Ludometrics, we&rsquo;re based in Scotland.</p>
+
+<p>Other: Scotland, cool, Is there much of a games industry there, then?</p></blockquote>
+
+<p>If it had been a one-off, I might have brushed it off. But it wasn&rsquo;t &ndash; it happened at least twice a day for the three days of the conference. When I mentioned <em>GTA</em>, there was some vague recognition from some people that they&rsquo;d heard it was made in Scotland, once, somewhere, a while ago. And really, aside from <em>GTA</em>, what else is there you can mention?</p>
+
+<blockquote><p>Me (looking into camera): Uh-oh.</p></blockquote>
+
+<p>You may say that Casual Connect was the wrong conference to talk about that, given the legacy of <em>Lemmings</em>, <em>Crackdown</em> and <em>GTA</em>. <em>APB</em> hasn&rsquo;t been doing too badly either. The problem with that, though, is that virtually every company in Scotland is now working on mobile or social games &ndash; pretty much what the whole conference was centred around.</p>
+
+<p>You may say it doesn&rsquo;t matter, nobody really cares where the games are made. That may be true on some level, but on another level &ndash; attracting (or even just retaining) talent to the country to help make those games is a fairly critical part of having an &ldquo;industry&rdquo;.</p>
+
+<p>I&rsquo;ve written about this before (in <a href="http://dwlt.net/blog/2010/09/21/the-scale-of-the-problem/">The Scale of the Problem</a>), where I lament the lack of famous games in attracting outsiders. But if other people in the industry don&rsquo;t realise we have a games industry here, we&rsquo;re in trouble my friends. I don&rsquo;t want to work in the Scottish games cottage industry.</p>
+
+<p>So what to do? Making games that make money (as opposed to making money by making games) would be a good start. Talking about them, getting other people talking about them and telling people where they&rsquo;re made would also be good ideas.</p>
+
+<p>Telling people where they&rsquo;re made sounds simple enough. Inspired by &ldquo;<a href="http://nytm.org/made/">Made in New York</a>&rdquo;, I&rsquo;ve created a new site which is called (amazingly), &ldquo;<a href="http://madeinscotland.co">Made in Scotland</a>&rdquo;. If you&rsquo;re making games (or any sort of tech) in Scotland, please go there and add your company to the list (it&rsquo;s a <a href="https://docs.google.com/spreadsheet/viewform?hl=en_US&amp;formkey=dDlHNW8zSnlPYXNGX0k4Rk5XNkdGcVE6MQ">simple form</a>). Include the simple phrase &ldquo;Made in Scotland&rdquo; on your credits or options screen. People who want to or do work in games look at these screens. They&rsquo;ll see it. It seems like a small thing, but small things matter. And it&rsquo;s helped well enough for the tech scene in New York, so why not for Scotland?</p>
+]]></content>
+  </entry>
+  
+</feed>

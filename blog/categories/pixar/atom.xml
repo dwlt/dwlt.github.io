@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Pixar | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/pixar/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What It Takes]]></title>
+    <link href="http://dwlt.github.io/blog/2011/07/15/what-it-takes/"/>
+    <updated>2011-07-15T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2011/07/15/what-it-takes</id>
+    <content type="html"><![CDATA[<p><a href="http://www.lettersofnote.com/">Letters of Note</a> is a site that collects
+&ldquo;fascinating letters, postcards, telegrams, faxes, and memos.&rdquo; There&rsquo;s a
+<a href="http://www.lettersofnote.com/2010/06/pixar-films-dont-get-finished-they-just.html">letter</a> from Pixar director <a href="http://www.imdb.com/name/nm0230032/">Pete Docter</a> (<em>Monsters, Inc.</em>, <em>Up</em>) originally posted last summer, but which I&rsquo;ve seen doing the rounds again recently.</p>
+
+<p>Mostly, people are picking up the closing line: <em>&ldquo;As John Lasseter likes to
+say, our films don&rsquo;t get finished, they just get released&rdquo;</em> &ndash; a common refrain
+from artists &ndash; but it&rsquo;s an earlier line that jumps out at me:</p>
+
+<blockquote><p>It takes a lot of work (and rework, and rework and rework) to get it right.</p></blockquote>
+
+<p>Related reading: <a href="http://grumpygamer.com/6843121"><em>The Vertical Slice</em></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Iteration]]></title>
+    <link href="http://dwlt.github.io/blog/2010/12/09/iteration/"/>
+    <updated>2010-12-09T00:00:00+00:00</updated>
+    <id>http://dwlt.github.io/blog/2010/12/09/iteration</id>
+    <content type="html"><![CDATA[<blockquote><p>So lets say I’ll attack three or four scenes, and what I’ll do is I’ll write
+a draft and hand it in to Lee the director and he’ll go, ‘eh, X, Y and Z.’ So
+then I go back and I’ll go through that very small two-person feedback loop
+for five or six passes, basically, until Lee finally goes, ‘OK, I think that’s
+it.’</p></blockquote>
+
+<p>&mdash;<a href="http://blogs.indiewire.com/thompsononhollywood/2010/12/06/michael_arndt_talks_toy_story_3/">Michael Arndt Digs Into Toy Story 3 and the Genius of the Pixar System &ndash; Thompson on Hollywood</a></p>
+]]></content>
+  </entry>
+  
+</feed>

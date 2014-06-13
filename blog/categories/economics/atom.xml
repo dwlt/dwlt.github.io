@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Economics | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/economics/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[No Basis In Reality]]></title>
+    <link href="http://dwlt.github.io/blog/2010/10/22/no-basis-in-reality/"/>
+    <updated>2010-10-22T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2010/10/22/no-basis-in-reality</id>
+    <content type="html"><![CDATA[<blockquote><p>There have been widespread claims that deficit-cutting actually reduces
+unemployment because it reassures consumers and businesses; but multiple
+studies of historical record, including one by the International Monetary
+Fund, have shown that this claim has no basis in reality.</p></blockquote>
+
+<p>&mdash;Paul Krugman (<a href="http://www.nytimes.com/2010/10/22/opinion/22krugman.html?_r=3">British Fashion Victims &ndash; NYTimes.com</a>)</p>
+]]></content>
+  </entry>
+  
+</feed>

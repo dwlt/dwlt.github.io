@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: thoughts | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/thoughts/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How Early is too Early?]]></title>
+    <link href="http://dwlt.github.io/blog/2014/04/24/how-early-is-too-early/"/>
+    <updated>2014-04-24T12:59:37+01:00</updated>
+    <id>http://dwlt.github.io/blog/2014/04/24/how-early-is-too-early</id>
+    <content type="html"><![CDATA[<p>Reading <a href="http://www.eurogamer.net/articles/2014-04-24-can-godus-be-fixed">&ldquo;Can Godus be fixed?&rdquo;</a> by Christian Donlan this morning on Eurogamer, a section of the last paragraph stood out:</p>
+
+<p><blockquote><p>In truth, it&rsquo;s still hard to pin down what, if anything, 22Cans actually wants Godus to be. It&rsquo;s probably often this way in development. Maybe a team really needs to &ldquo;experiment, fail, and experiment again,&rdquo; to quote Molyneux, even if that&rsquo;s under the harsh, critical glare provided by hundreds of customers who have already paid up for the ride.</p></blockquote></p>
+
+<p>I haven&rsquo;t followed Godus particularly closely (read: at all), but the above strikes me as a failure to manage expectations (on all sides). Reading the comments on the article further reinforces this, with some defending the current state of the game and others feeling like they&rsquo;ve been cheated because they already paid up for it.</p>
+
+<p>Finding the fun, particularly on an experimental or &ldquo;reinvention&rdquo; project, can be tricky, and can take a while. Even when you have strong reference points and a fairly clear idea of what your design pillars are, it can be tricky. The problem Godus seems to be having is that they&rsquo;re building out infrastructure for the game before they&rsquo;ve figured out what core play is.</p>
+
+<p>At <a href="http://www.gdcvault.com/play/1020034/Performative-Game-Development-The-Design">Vlambeer&rsquo;s GDC session</a> on their experience with <a href="http://nuclearthrone.com">Nuclear Throne</a> last month, Rami mentioned that at one point on the stream they&rsquo;d had to explain to viewers that they had to program what happened to bullets when they hit walls. To anyone involved in development, that seems like a silly thing to have to explain, but many people clearly have no idea how games are made.</p>
+
+<p>Nuclear Throne looks to be a successfully managed Early Access project &ndash; it helps that Vlambeer had a game jam produced prototype (and arguably a stronger fanbase), but I also think the fact it&rsquo;s fairly clear what Nuclear Throne is trying to be helps with audience expectation (subconsciously, at least). People know what they&rsquo;re getting into and Vlambeer aren&rsquo;t building foundational game engine bits because they&rsquo;re using Game Maker. They had something that was fun from the very start of Early Access, so players can immediately see the potential and understand what the game is.</p>
+
+<p>Godus on the other hand, has different expectations everywhere you look &ndash; some of the audience just want Populous 4, but that&rsquo;s perhaps not what 22Cans are trying to achieve. Either way, it&rsquo;s clear they&rsquo;ve let people into the process far too early &ndash; it&rsquo;s not obvious what they&rsquo;re trying to achieve with the game when you play it, and as a result journalists and players are reacting poorly to it.</p>
+
+<p>So it seems to me that Early Access (and equivalents) can be the right thing, but only at the right time. That right time varies from project to project. It will be interesting to see how Godus fares from here on in &ndash; is the reputational damage done at this stage irreparable, or can the project be salvaged?</p>
+]]></content>
+  </entry>
+  
+</feed>

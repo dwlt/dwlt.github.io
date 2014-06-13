@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tech | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/tech/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-06-13T12:36:03+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Silicon Valley in Scotland]]></title>
+    <link href="http://dwlt.github.io/blog/2010/10/01/silicon-valley-in-scotland/"/>
+    <updated>2010-10-01T00:00:00+01:00</updated>
+    <id>http://dwlt.github.io/blog/2010/10/01/silicon-valley-in-scotland</id>
+    <content type="html"><![CDATA[<p><a href="http://howbigreally.com/dimension/industrial_age/silicon_valley#fk15"><img src="http://www.tumblr.com/photo/1280/1221062996/1/tumblr_l9iabhmRxq1qz6fpl" alt="" /></a></p>
+
+<p>If you dropped Silicon Valley into Scotland.  People were surprised when I told them this yesterday.</p>
+]]></content>
+  </entry>
+  
+</feed>
