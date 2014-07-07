@@ -4,7 +4,7 @@
   <title><![CDATA[Category: games | dwlt.thinksOutLoud]]></title>
   <link href="http://dwlt.github.io/blog/categories/games/atom.xml" rel="self"/>
   <link href="http://dwlt.github.io/"/>
-  <updated>2014-06-13T12:52:24+01:00</updated>
+  <updated>2014-07-07T09:53:51+01:00</updated>
   <id>http://dwlt.github.io/</id>
   <author>
     <name><![CDATA[David Thomson]]></name>
@@ -12,6 +12,159 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blizzard's Design Rules]]></title>
+    <link href="http://dwlt.github.io/blog/2014/07/07/blizzards-design-rules/"/>
+    <updated>2014-07-07T09:25:10+01:00</updated>
+    <id>http://dwlt.github.io/blog/2014/07/07/blizzards-design-rules</id>
+    <content type="html"><![CDATA[<p>With the news that <a href="http://www.eurogamer.net/articles/2014-07-04-rob-pardos-legacy-of-steel">Rob Pardo is leaving Blizzard</a>, it reminded me I collected his &ldquo;top ten&rdquo; design rules from Blizzard
+at a talk he gave at GDC 2010 and never posted them. There are probably more detailed write-ups elsewhere, but here
+they are in bullet form:</p>
+
+<ol>
+<li>Gameplay First
+
+<ul>
+<li>Concentrate on the fun</li>
+<li>Art, design, programming all in the service of fun</li>
+<li>Design isn’t more important than others</li>
+</ul>
+</li>
+<li>Easy to Learn, Difficult to Master
+
+<ul>
+<li>SImple mechanics to begin with</li>
+<li>Easly play</li>
+<li>Actually: easy to learn, almost impossible to master</li>
+<li>Provide lots of depth</li>
+<li>Trying to build depth first &ndash; harder and takes longers
+
+<ul>
+<li>Do multiplayer first, then singleplayer</li>
+<li>Accessibility second</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>What is the Fantasy?
+
+<ul>
+<li>What is the expectation?</li>
+<li>Where is the fun in that?</li>
+</ul>
+</li>
+<li>Make Everything Overpowered
+
+<ul>
+<li>Take everything to 11</li>
+<li>Every unit, class should feel unstoppable</li>
+<li>Doesn’t cost anything to make something epic</li>
+<li>Applies to story and world too</li>
+<li>Avoid balancing to mediocrity</li>
+<li>Celebrate big differences in the game</li>
+</ul>
+</li>
+<li>Concentrated Coolness
+
+<ul>
+<li>Make each feature the coolest, most concentrated expression of gameplay</li>
+<li>Limited amount of complexity a player can process
+
+<ul>
+<li>eg vehicles ruined class system since you could use clas</li>
+<li>StarCraft 2 has 16 units per race
+
+<ul>
+<li>Killed old units to introduce new units</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Play Don’t Tell
+
+<ul>
+<li>Play as much of the story as possible</li>
+<li>Use text/voiceover/movies to enhance the story
+
+<ul>
+<li>eg 512 character limit on WoW quest descriptions</li>
+<li>bad eg 2+ minute monologues in Diablo 2</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Make It A Bonus
+
+<ul>
+<li>Players respond better to incentives</li>
+<li>Path of least resistance should be most fun</li>
+<li>Don’t fight player psychology
+
+<ul>
+<li>eg “Inspect player message”</li>
+<li>Randomness &amp; progressive percentages build up (designed randomness)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Control is King
+
+<ul>
+<li>Controls should be as responsive as possible</li>
+<li>Sacrifice “cool” for better control</li>
+<li>Players unlikely to complain about slightly bad controls</li>
+<li>Done well becomes a key skill differentiator for players</li>
+</ul>
+</li>
+<li>Tune It Up
+
+<ul>
+<li>Easy to do, hard to do well</li>
+<li>Plan for tuning hooks</li>
+<li>Know who you are tuning for and why</li>
+</ul>
+</li>
+<li>Avoid the Grand Reveal
+
+<ul>
+<li>Check in often and get lots of feedback</li>
+<li>Difficult to tell if an idea will work</li>
+<li>Must be set up to fail</li>
+<li>Iteration is critical to Blizzard dev process</li>
+<li>“If you can’t build that culture, it won’t work”</li>
+<li>“Want people to say ‘can you help me make this better’”</li>
+</ul>
+</li>
+<li>Culture of Polish
+
+<ul>
+<li>Polish doesn’t happen at the end</li>
+<li>Team gets to make their favourite game better
+
+<ul>
+<li>Make sure team loves the game</li>
+</ul>
+</li>
+<li>Cross section from other teams and preview players to feed back into the game</li>
+<li>Every voice matters &ndash; Don’t ship until it’s ready</li>
+</ul>
+</li>
+</ol>
+
+
+<p>On a related note, Pardo also mentioned something called &ldquo;Strike Teams&rdquo;, which were also mentioned by Dusttin Browder
+in <a href="http://www.polygon.com/2014/5/21/5723572/heroes-of-the-storm-making-of-blizzard">this interview about <em>Heroes of the Storm</em></a>:</p>
+
+<blockquote><p>&ldquo;We have a process here at Blizzard called a strike team where we get a bunch of people who are not on the game teams, well they&rsquo;re not on the game team making the game,&rdquo; Browder explained. Different people come into projects they&rsquo;re not a direct part of, play through the content that has been created, and give their feedback.</p>
+
+<p>&ldquo;And it&rsquo;s the most brutally honest experience you could possibly have in your life. They&rsquo;ll just look at you point blank and say, &lsquo;Well, you&rsquo;re not gonna release this cause it sucks, right?&rsquo; I mean they&rsquo;ll just tell you whatever.&rdquo;</p></blockquote>
+
+<p>To me, that all sounds a bit like Pixar&rsquo;s <a href="http://pixartimes.com/2014/03/12/go-inside-a-pixar-braintrust-meeting-for-upcoming-film-inside-out/">Brain Trust</a> system. (Read Ed Catmull&rsquo;s <a href="http://www.amazon.co.uk/gp/product/B00GUOEMA4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=B00GUOEMA4&amp;linkCode=as2&amp;tag=dwlt-21"><em>Creativity, Inc.</em></a> if you haven&rsquo;t already.)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How Early is too Early?]]></title>

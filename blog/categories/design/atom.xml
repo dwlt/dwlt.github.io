@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Design | dwlt.thinksOutLoud]]></title>
+  <title><![CDATA[Category: design | dwlt.thinksOutLoud]]></title>
   <link href="http://dwlt.github.io/blog/categories/design/atom.xml" rel="self"/>
   <link href="http://dwlt.github.io/"/>
-  <updated>2014-06-13T12:52:24+01:00</updated>
+  <updated>2014-07-07T09:53:51+01:00</updated>
   <id>http://dwlt.github.io/</id>
   <author>
     <name><![CDATA[David Thomson]]></name>
@@ -14,55 +14,155 @@
 
   
   <entry>
-    <title type="html"><![CDATA[No Limit For Better]]></title>
-    <link href="http://dwlt.github.io/blog/2010/09/28/no-limit-for-better/"/>
-    <updated>2010-09-28T00:00:00+01:00</updated>
-    <id>http://dwlt.github.io/blog/2010/09/28/no-limit-for-better</id>
-    <content type="html"><![CDATA[<p>Another week, another PopCap interview, this time <a href="http://www.gamasutra.com/view/news/30520/Interview_Popcaps_Johnston_On_Plants_Vs_Zombies_Tricky_XBLA_Shift.php">with Matt Johnston</a>, senior producer on <em>Plants vs Zombies</em> for XBLA
-over at Gamasutra. This one generally focuses on the value of being able to
-iterate repeatedly until you get it right:</p>
+    <title type="html"><![CDATA[Blizzard's Design Rules]]></title>
+    <link href="http://dwlt.github.io/blog/2014/07/07/blizzards-design-rules/"/>
+    <updated>2014-07-07T09:25:10+01:00</updated>
+    <id>http://dwlt.github.io/blog/2014/07/07/blizzards-design-rules</id>
+    <content type="html"><![CDATA[<p>With the news that <a href="http://www.eurogamer.net/articles/2014-07-04-rob-pardos-legacy-of-steel">Rob Pardo is leaving Blizzard</a>, it reminded me I collected his &ldquo;top ten&rdquo; design rules from Blizzard
+at a talk he gave at GDC 2010 and never posted them. There are probably more detailed write-ups elsewhere, but here
+they are in bullet form:</p>
 
-<blockquote><p>We spent a lot of time just trying to get [the control system] to feel right
-but I think eventually we got there</p></blockquote>
+<ol>
+<li>Gameplay First
 
-<p>(Although weirdly, the next paragraph states: &ldquo;Spending a lot of time on small
-elements like this is something PopCap prides itself on&rdquo; &ndash; although I&rsquo;m not
-sure I&rsquo;d classify the control system a &lsquo;small element&rsquo; of a game.)</p>
+<ul>
+<li>Concentrate on the fun</li>
+<li>Art, design, programming all in the service of fun</li>
+<li>Design isn’t more important than others</li>
+</ul>
+</li>
+<li>Easy to Learn, Difficult to Master
 
-<p>They bear in mind that you have to think like a player:</p>
+<ul>
+<li>SImple mechanics to begin with</li>
+<li>Easly play</li>
+<li>Actually: easy to learn, almost impossible to master</li>
+<li>Provide lots of depth</li>
+<li>Trying to build depth first &ndash; harder and takes longers
 
-<blockquote><p>we sat there and spent a lot of time looking at how that double sun was
-going to look and animate, trying to second guess over and over and over again
-how somebody who had never played PvZ or somebody who may be confused by it,
-what they would think and what they would do.</p></blockquote>
+<ul>
+<li>Do multiplayer first, then singleplayer</li>
+<li>Accessibility second</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>What is the Fantasy?
 
-<p>They obsess on details:</p>
+<ul>
+<li>What is the expectation?</li>
+<li>Where is the fun in that?</li>
+</ul>
+</li>
+<li>Make Everything Overpowered
 
-<blockquote><p>I feel incredibly lucky to be working for a company that values those things
-and shares my need to sort of exercise my OCD and go through every little
-detail.</p></blockquote>
+<ul>
+<li>Take everything to 11</li>
+<li>Every unit, class should feel unstoppable</li>
+<li>Doesn’t cost anything to make something epic</li>
+<li>Applies to story and world too</li>
+<li>Avoid balancing to mediocrity</li>
+<li>Celebrate big differences in the game</li>
+</ul>
+</li>
+<li>Concentrated Coolness
 
-<p>Aside from iteration, they also value knowing when to stop:</p>
+<ul>
+<li>Make each feature the coolest, most concentrated expression of gameplay</li>
+<li>Limited amount of complexity a player can process
 
-<blockquote><p>To be honest, getting that working and tested would have taken another six
-months … I didn’t feel like it was worth [it]. … At some point every good game
-developer has to decide, ‘OK, I’m actually gonna ship this game this year.’</p></blockquote>
+<ul>
+<li>eg vehicles ruined class system since you could use clas</li>
+<li>StarCraft 2 has 16 units per race
 
-<p>That last paragraph reminds of me of this
-<a href="http://www.danpink.com/archives/2010/01/quote-of-the-day-no-limit-for-better">quote</a> from Harrison Ford:</p>
+<ul>
+<li>Killed old units to introduce new units</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Play Don’t Tell
 
-<blockquote><p><strong>You keep on going until you get it as close to being right as the time and
-patience of others will allow.</strong></p></blockquote>
+<ul>
+<li>Play as much of the story as possible</li>
+<li>Use text/voiceover/movies to enhance the story
 
-<p>And if you read this <a href="http://www.techflash.com/seattle/2010/09/qa_popcaps_dave_roberts_on_zynga_iphone_and_more.html">interview</a> with the Dave Roberts, the
-CEO of PopCap, you can see why they work like that:</p>
+<ul>
+<li>eg 512 character limit on WoW quest descriptions</li>
+<li>bad eg 2+ minute monologues in Diablo 2</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Make It A Bonus
 
-<blockquote><p>[W]e are pretty happy. We have never had to compromise anything about what
-we believe in for great products … I think we are going to continue to build
-some awesome value here, and people love the games. And we are going to keep
-making great games.</p></blockquote>
+<ul>
+<li>Players respond better to incentives</li>
+<li>Path of least resistance should be most fun</li>
+<li>Don’t fight player psychology
 
-<p>Lovely.</p>
+<ul>
+<li>eg “Inspect player message”</li>
+<li>Randomness &amp; progressive percentages build up (designed randomness)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Control is King
+
+<ul>
+<li>Controls should be as responsive as possible</li>
+<li>Sacrifice “cool” for better control</li>
+<li>Players unlikely to complain about slightly bad controls</li>
+<li>Done well becomes a key skill differentiator for players</li>
+</ul>
+</li>
+<li>Tune It Up
+
+<ul>
+<li>Easy to do, hard to do well</li>
+<li>Plan for tuning hooks</li>
+<li>Know who you are tuning for and why</li>
+</ul>
+</li>
+<li>Avoid the Grand Reveal
+
+<ul>
+<li>Check in often and get lots of feedback</li>
+<li>Difficult to tell if an idea will work</li>
+<li>Must be set up to fail</li>
+<li>Iteration is critical to Blizzard dev process</li>
+<li>“If you can’t build that culture, it won’t work”</li>
+<li>“Want people to say ‘can you help me make this better’”</li>
+</ul>
+</li>
+<li>Culture of Polish
+
+<ul>
+<li>Polish doesn’t happen at the end</li>
+<li>Team gets to make their favourite game better
+
+<ul>
+<li>Make sure team loves the game</li>
+</ul>
+</li>
+<li>Cross section from other teams and preview players to feed back into the game</li>
+<li>Every voice matters &ndash; Don’t ship until it’s ready</li>
+</ul>
+</li>
+</ol>
+
+
+<p>On a related note, Pardo also mentioned something called &ldquo;Strike Teams&rdquo;, which were also mentioned by Dusttin Browder
+in <a href="http://www.polygon.com/2014/5/21/5723572/heroes-of-the-storm-making-of-blizzard">this interview about <em>Heroes of the Storm</em></a>:</p>
+
+<blockquote><p>&ldquo;We have a process here at Blizzard called a strike team where we get a bunch of people who are not on the game teams, well they&rsquo;re not on the game team making the game,&rdquo; Browder explained. Different people come into projects they&rsquo;re not a direct part of, play through the content that has been created, and give their feedback.</p>
+
+<p>&ldquo;And it&rsquo;s the most brutally honest experience you could possibly have in your life. They&rsquo;ll just look at you point blank and say, &lsquo;Well, you&rsquo;re not gonna release this cause it sucks, right?&rsquo; I mean they&rsquo;ll just tell you whatever.&rdquo;</p></blockquote>
+
+<p>To me, that all sounds a bit like Pixar&rsquo;s <a href="http://pixartimes.com/2014/03/12/go-inside-a-pixar-braintrust-meeting-for-upcoming-film-inside-out/">Brain Trust</a> system. (Read Ed Catmull&rsquo;s <a href="http://www.amazon.co.uk/gp/product/B00GUOEMA4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=B00GUOEMA4&amp;linkCode=as2&amp;tag=dwlt-21"><em>Creativity, Inc.</em></a> if you haven&rsquo;t already.)</p>
 ]]></content>
   </entry>
   
