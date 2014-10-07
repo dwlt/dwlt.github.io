@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Change | dwlt.thinksOutLoud]]></title>
+  <link href="http://dwlt.github.io/blog/categories/change/atom.xml" rel="self"/>
+  <link href="http://dwlt.github.io/"/>
+  <updated>2014-10-07T15:17:28+01:00</updated>
+  <id>http://dwlt.github.io/</id>
+  <author>
+    <name><![CDATA[David Thomson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hepworth's Law of Improvement]]></title>
+    <link href="http://dwlt.github.io/blog/2014/10/07/hepworths-law-of-improvement/"/>
+    <updated>2014-10-07T15:19:25+01:00</updated>
+    <id>http://dwlt.github.io/blog/2014/10/07/hepworths-law-of-improvement</id>
+    <content type="html"><![CDATA[<p>Saving this for future use, from <a href="http://whatsheonaboutnow.blogspot.co.uk/2014/10/how-to-get-over-distortion-of-sound.html" title="Stop whinging about the distortion of sound and make records we like.">David Hepworth</a> (emphasis his):</p>
+
+<blockquote><p>There&rsquo;s improvement, then there&rsquo;s the kind of improvement which is recognised by the user and finally there&rsquo;s the kind of improvement which is both recognised and <strong>valued</strong> by the user.</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
