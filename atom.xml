@@ -4,7 +4,7 @@
   <title><![CDATA[dwlt.thinksOutLoud]]></title>
   <link href="http://dwlt.github.io/atom.xml" rel="self"/>
   <link href="http://dwlt.github.io/"/>
-  <updated>2014-10-14T09:42:38+01:00</updated>
+  <updated>2014-10-20T12:15:04+01:00</updated>
   <id>http://dwlt.github.io/</id>
   <author>
     <name><![CDATA[David Thomson]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Take It Out]]></title>
+    <link href="http://dwlt.github.io/blog/2014/10/20/take-it-out/"/>
+    <updated>2014-10-20T12:07:21+01:00</updated>
+    <id>http://dwlt.github.io/blog/2014/10/20/take-it-out</id>
+    <content type="html"><![CDATA[<blockquote><p>My rule for designing a game is that anything I can take out of the game, I take out, as long as it doesn&#8217;t undermine the base part</p><footer><strong>Alan R. Moon</strong> <cite><a href='http://www.eurogamer.net/articles/2014-10-19-alan-r-moon-railroad-tycoon'>Alan R Moon, Railroad Tycoon</a></cite></footer></blockquote>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Recent Reading]]></title>
@@ -628,25 +638,6 @@ aren&rsquo;t even trying it out.</p>
 <p>Clearly, I have more questions than answers about this, but given the fuss
 about this funding model in the worlds of film, music and art, I&rsquo;m curious as
 to why more don&rsquo;t seem to have taken this route.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What It Takes]]></title>
-    <link href="http://dwlt.github.io/blog/2011/07/15/what-it-takes/"/>
-    <updated>2011-07-15T00:00:00+01:00</updated>
-    <id>http://dwlt.github.io/blog/2011/07/15/what-it-takes</id>
-    <content type="html"><![CDATA[<p><a href="http://www.lettersofnote.com/">Letters of Note</a> is a site that collects
-&ldquo;fascinating letters, postcards, telegrams, faxes, and memos.&rdquo; There&rsquo;s a
-<a href="http://www.lettersofnote.com/2010/06/pixar-films-dont-get-finished-they-just.html">letter</a> from Pixar director <a href="http://www.imdb.com/name/nm0230032/">Pete Docter</a> (<em>Monsters, Inc.</em>, <em>Up</em>) originally posted last summer, but which I&rsquo;ve seen doing the rounds again recently.</p>
-
-<p>Mostly, people are picking up the closing line: <em>&ldquo;As John Lasseter likes to
-say, our films don&rsquo;t get finished, they just get released&rdquo;</em> &ndash; a common refrain
-from artists &ndash; but it&rsquo;s an earlier line that jumps out at me:</p>
-
-<blockquote><p>It takes a lot of work (and rework, and rework and rework) to get it right.</p></blockquote>
-
-<p>Related reading: <a href="http://grumpygamer.com/6843121"><em>The Vertical Slice</em></a></p>
 ]]></content>
   </entry>
   
