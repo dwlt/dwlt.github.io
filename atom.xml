@@ -4,7 +4,7 @@
   <title><![CDATA[dwlt.thinksOutLoud]]></title>
   <link href="http://dwlt.github.io/atom.xml" rel="self"/>
   <link href="http://dwlt.github.io/"/>
-  <updated>2014-10-20T12:15:04+01:00</updated>
+  <updated>2014-12-02T12:14:09+00:00</updated>
   <id>http://dwlt.github.io/</id>
   <author>
     <name><![CDATA[David Thomson]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kindness]]></title>
+    <link href="http://dwlt.github.io/blog/2014/12/02/kindness/"/>
+    <updated>2014-12-02T12:14:39+00:00</updated>
+    <id>http://dwlt.github.io/blog/2014/12/02/kindness</id>
+    <content type="html"><![CDATA[<p>Paul Graham&rsquo;s <a href="http://paulgraham.com/mean.html">Mean People Fail</a>:</p>
+
+<blockquote><p>It struck me recently how few of the most successful people I know are mean. There are exceptions, but remarkably few.</p></blockquote>
+
+<p>The essay reminded me of George Saunders&#8217; convocation speech I&rsquo;ve been meaning to post for ages (expanded on in <a href="http://www.amazon.co.uk/gp/product/1408859343/tag=dwlt-21"><em>Congratulations, by the way</em></a>, I believe). Since it&rsquo;s also his birthday today, I figured now was as good a time as any to do so:</p>
+
+<blockquote><p>So here’s something I know to be true, although it’s a little corny, and I don’t quite know what to do with it:</p>
+
+<p>What I regret most in my life are failures of kindness.</p>
+
+<p>Those moments when another human being was there, in front of me, suffering, and I responded &hellip; sensibly. Reservedly. Mildly.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Take It Out]]></title>
@@ -595,49 +614,6 @@ film name.</p>
 understanding of why it didn&rsquo;t matter quite so much at that point. So, by all
 means negotiate to keep your IP, but make sure you have a clear understanding
 of what you&rsquo;re negotiating for.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Are Game Makers Scared of Crowdfunding?]]></title>
-    <link href="http://dwlt.github.io/blog/2011/07/28/are-game-makers-scared-of-crowdfunding/"/>
-    <updated>2011-07-28T00:00:00+01:00</updated>
-    <id>http://dwlt.github.io/blog/2011/07/28/are-game-makers-scared-of-crowdfunding</id>
-    <content type="html"><![CDATA[<p><a href="http://www.kickstarter.com/">Kickstarter</a>, the crowdfunding site that can&rsquo;t
-handle non-US projects, <a href="http://www.kickstarter.com/blog/10000-successful-projects">posted some stats</a> from its
-first 10,000 funded projects:</p>
-
-<p><img src="http://s3.amazonaws.com/ksr/datas/1621/successful_projects_by_category.large.jpg?1311042509" alt="" /></p>
-
-<p>Music and Film clearly dominate, taking 61.5% of all projects between them,
-but Games are way down at the other end of the scale, with just 180 projects:
-1.8%.</p>
-
-<p>Why? There&rsquo;s an <a href="http://www.kickstarter.com/igda">IGDA selected project</a> page,
-after all. <del>I&rsquo;ve asked <a href="http://www.indiegogo.com/">IndieGoGo</a> (which does
-handle non-US projects) how games figured into their stats, and I&rsquo;m waiting
-for them to get back to me. I&rsquo;ll update this post as and when they do
-so.</del> <strong>Update:</strong> IndieGoGo will only say that games are a &ldquo;steadily
-increasing percentage&rdquo; of their 30,000+ campaigns. That makes me think it&rsquo;s a
-low percentage.</p>
-
-<p>Are games creators deliberately avoiding this funding model? If so, why?
-Especially given that &ldquo;lack of funding&rdquo; is one of the main reasons given for
-not making something. Do they think they won&rsquo;t raise enough money? You might
-not raise enough to make a big console game, but
-<a href="http://www.kickstarter.com/projects/1019019367/urbanized-a-documentary-film-by-gary-hustwit"><em>Urbanized</em></a> (a documentary sequel to <em>Helvetica</em> and
-<em>Objectified</em>) raised $118,505. Are players not interested in supporting game
-makers? Do players even know who the game makers are? Are the rewards offered
-by games projects powerful enough?</p>
-
-<p>Are game makers trying but failing? I follow a fair few people on Twitter from
-across film, games, music and theatre. I see lots of project promotion from
-all those sectors except games, which leads me to suspect that game makers
-aren&rsquo;t even trying it out.</p>
-
-<p>Clearly, I have more questions than answers about this, but given the fuss
-about this funding model in the worlds of film, music and art, I&rsquo;m curious as
-to why more don&rsquo;t seem to have taken this route.</p>
 ]]></content>
   </entry>
   
