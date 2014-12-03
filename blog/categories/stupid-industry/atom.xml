@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Stupid Industry | dwlt.thinksOutLoud]]></title>
   <link href="http://dwlt.github.io/blog/categories/stupid-industry/atom.xml" rel="self"/>
   <link href="http://dwlt.github.io/"/>
-  <updated>2014-12-02T12:14:09+00:00</updated>
+  <updated>2014-12-03T09:18:53+00:00</updated>
   <id>http://dwlt.github.io/</id>
   <author>
     <name><![CDATA[David Thomson]]></name>
@@ -20,7 +20,9 @@
     <id>http://dwlt.github.io/blog/2012/01/25/happy-quarrel-day-again</id>
     <content type="html"><![CDATA[<p><a href="http://www.denki.co.uk/2012/01/25/quarrel-vs-the-games-industry-whos-right/">Finally</a>! <em>Quarrel</em> is here for Xbox Live Arcade!</p>
 
-<p><blockquote><p>So who’s right then: Gamers like myself? Or the Games Industry?  Well, Wednesday January 25th 2012 is “The Day Of Reckoning”.  It’s Gamers vs The Games Industry, and one of us is definitely wrong.</p><footer><strong><a href="http://www.denki.co.uk/2012/01/25/quarrel-vs-the-games-industry-whos-right/">http://www.denki.co.uk/2012/01/25/quarrel-vs-the-games-industry-whos-right/</a> Quarrel vs The Games Industry: Who’s Right?</strong></footer></blockquote></p>
+<p>{% blockquote <a href="http://www.denki.co.uk/2012/01/25/quarrel-vs-the-games-industry-whos-right/">http://www.denki.co.uk/2012/01/25/quarrel-vs-the-games-industry-whos-right/</a> Quarrel vs The Games Industry: Who’s Right? %}
+So who’s right then: Gamers like myself? Or the Games Industry?  Well, Wednesday January 25th 2012 is “The Day Of Reckoning”.  It’s Gamers vs The Games Industry, and one of us is definitely wrong.
+{% endblockquote %}</p>
 
 <p>It’s true. I remember all the discussions had regarding the received wisdom that “word games don’t sell”.</p>
 

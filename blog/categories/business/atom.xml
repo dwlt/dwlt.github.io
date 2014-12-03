@@ -4,7 +4,7 @@
   <title><![CDATA[Category: business | dwlt.thinksOutLoud]]></title>
   <link href="http://dwlt.github.io/blog/categories/business/atom.xml" rel="self"/>
   <link href="http://dwlt.github.io/"/>
-  <updated>2014-12-02T12:14:09+00:00</updated>
+  <updated>2014-12-03T09:18:53+00:00</updated>
   <id>http://dwlt.github.io/</id>
   <author>
     <name><![CDATA[David Thomson]]></name>
@@ -32,12 +32,12 @@
 
 <p>TL;DR: The biggest, bestest, break-outiest things are often made by people who want the things they&rsquo;re making.</p>
 
-<p></p>
+<p>{% raw %}</p>
 
 <script async class="speakerdeck-embed" data-id="50056752d2e765000204eb70" data-ratio="0.9481481481481482" src="//speakerdeck.com/assets/embed.js"></script>
 
 
-<p></p>
+<p>{% endraw %}</p>
 ]]></content>
   </entry>
   

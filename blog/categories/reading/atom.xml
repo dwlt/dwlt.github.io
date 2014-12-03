@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Reading | dwlt.thinksOutLoud]]></title>
   <link href="http://dwlt.github.io/blog/categories/reading/atom.xml" rel="self"/>
   <link href="http://dwlt.github.io/"/>
-  <updated>2014-12-02T12:14:09+00:00</updated>
+  <updated>2014-12-03T09:18:53+00:00</updated>
   <id>http://dwlt.github.io/</id>
   <author>
     <name><![CDATA[David Thomson]]></name>
@@ -20,19 +20,27 @@
     <id>http://dwlt.github.io/blog/2014/10/14/recent-reading</id>
     <content type="html"><![CDATA[<p><a href="http://www.newyorker.com/magazine/2014/09/01/troll-slayer">Troll Slayer</a>, Rebecca Mead&rsquo;s profile of Mary Beard in The New Yorker earlier this year:</p>
 
-<p><blockquote><p>“It doesn’t much matter what line of argument you take as a woman. If you venture into traditional male territory, the abuse comes anyway. It’s not what you say that prompts it—it’s the fact that you are saying it.”</p><footer><strong>Mary Beard</strong></footer></blockquote></p>
+<p>{% blockquote Mary Beard %}
+“It doesn’t much matter what line of argument you take as a woman. If you venture into traditional male territory, the abuse comes anyway. It’s not what you say that prompts it—it’s the fact that you are saying it.”
+{% endblockquote %}</p>
 
 <p><a href="http://www.empireonline.com/westwing/">The Definitive History of The West Wing</a>:</p>
 
-<p><blockquote><p>When we were doing the show our goal was nothing grander than to entertain you for however long we&rsquo;d asked for your attention.</p><footer><strong>Aaron Sorkin</strong></footer></blockquote></p>
+<p>{% blockquote Aaron Sorkin %}
+When we were doing the show our goal was nothing grander than to entertain you for however long we&rsquo;d asked for your attention.
+{% endblockquote %}</p>
 
 <p>Steven Johnson (one of my favourite writers) interviewed Bill Gates about his foundation:</p>
 
-<p><blockquote><p>And so I think the idea that people are worried about problems, like climate change or terrorism or these challenges of the future, that’s okay. But boy, they really lose perspective of what’s happened over the last few hundred years. And how science and innovation have been a central factor of that.</p><footer><strong>Bill Gates <a href="http://www.theatlantic.com/technology/archive/2014/10/how-bill-gates-thinks/381287/">http://www.theatlantic.com/technology/archive/2014/10/how-bill-gates-thinks/381287/</a> How Bill Gates Thinks</strong></footer></blockquote></p>
+<p>{% blockquote Bill Gates <a href="http://www.theatlantic.com/technology/archive/2014/10/how-bill-gates-thinks/381287/">http://www.theatlantic.com/technology/archive/2014/10/how-bill-gates-thinks/381287/</a> How Bill Gates Thinks %}
+And so I think the idea that people are worried about problems, like climate change or terrorism or these challenges of the future, that’s okay. But boy, they really lose perspective of what’s happened over the last few hundred years. And how science and innovation have been a central factor of that.
+{% endblockquote %}</p>
 
 <p>This article is the best insight I&rsquo;ve found into how VC for software companies works:</p>
 
-<p><blockquote><p>Unfortunately software startups have the opposite characteristics of what Tom Perkins taught the VC industry to look for. Software companies have relatively low technical risk and high market risk. You know the company could deliver its product. The question was would anyone want to buy it. As I said before, market risk is generally not worth taking, so the intelligent VCs had to change their business model.</p><footer><strong>Andy Rachleff <a href="https://blog.wealthfront.com/venture-capital-economics-part-2/">https://blog.wealthfront.com/venture-capital-economics-part-2/</a> Demystifying Venture Capital Economics</strong> <cite>Part 2</cite></footer></blockquote></p>
+<p>{% blockquote Andy Rachleff <a href="https://blog.wealthfront.com/venture-capital-economics-part-2/">https://blog.wealthfront.com/venture-capital-economics-part-2/</a> Demystifying Venture Capital Economics, Part 2 %}
+Unfortunately software startups have the opposite characteristics of what Tom Perkins taught the VC industry to look for. Software companies have relatively low technical risk and high market risk. You know the company could deliver its product. The question was would anyone want to buy it. As I said before, market risk is generally not worth taking, so the intelligent VCs had to change their business model.
+{% endblockquote %}</p>
 ]]></content>
   </entry>
   

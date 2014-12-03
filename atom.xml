@@ -4,7 +4,7 @@
   <title><![CDATA[dwlt.thinksOutLoud]]></title>
   <link href="http://dwlt.github.io/atom.xml" rel="self"/>
   <link href="http://dwlt.github.io/"/>
-  <updated>2014-12-02T12:14:09+00:00</updated>
+  <updated>2014-12-03T09:16:59+00:00</updated>
   <id>http://dwlt.github.io/</id>
   <author>
     <name><![CDATA[David Thomson]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nostalgia Is Underrated]]></title>
+    <link href="http://dwlt.github.io/blog/2014/12/03/nostalgia-is-underrated/"/>
+    <updated>2014-12-03T09:12:38+00:00</updated>
+    <id>http://dwlt.github.io/blog/2014/12/03/nostalgia-is-underrated</id>
+    <content type="html"><![CDATA[<p>A comment I&rsquo;ve often seen or heard from &ldquo;gamers of a certain vintage&rdquo; is something along the lines of &ldquo;<em>when I go back to the games of my youth, I&rsquo;m always disappointed. Some things are best left with positive memories.</em>&rdquo;</p>
+
+<p>I certainly understand and have experienced that sentiment, but I also think it&rsquo;s missing the point.</p>
+
+<p>Watching the recent documentary on Jim Marshall and the invention of the iconic amp (<a href="http://www.bbc.co.uk/iplayer/episode/b04c3l7j/play-it-loud-the-story-of-the-marshall-amp"><em>Play It Loud</em></a>), Pete Townsend talks about John Lee Hooker putting a mic inside the guitar to achieve distortion on a track called <em>Devil&rsquo;s Jump</em> in ~1949. The recording of it isn&rsquo;t what you&rsquo;d call high fidelity, and I can&rsquo;t imagine how the audience of the time reacted. It&rsquo;s influence is undoubted, though, and I <em>can</em> understand that.</p>
+
+<p>Similarly, the effects in movies will almost never have the same impact on today&rsquo;s viewers compared with the original audience. For example, <a href="http://www.imdb.com/title/tt0000012/"><em>The Arrival of a Train</em></a>, a 1 minute film of a train coming straight at the camera and the legend holding that the audience ran screaming for cover, or 1953&rsquo;s <a href="http://www.imdb.com/title/tt0044121/"><em>The Thing from Another World</em></a> &ndash; terrifying for the time, by all accounts, yet laughably tame by modern-day standards.</p>
+
+<p>In Mark Cousins&#8217; amazing documentary series <a href="http://www.amazon.co.uk/The-Story-Film-Odyssey-DVD/dp/B007ZZKXG4/tag=dwlt-21"><em>The Story of Film</em></a>, he regularly refers to newer films &ldquo;quoting&rdquo; scenes and imagery from older films. Compare the design of C3PO with Maria, the robot from <a href="http://www.imdb.com/title/tt0017136/"><em>Metropolis</em></a>, or the entire end-scene of <a href="http://www.imdb.com/title/tt0105236/"><em>Reservoir Dogs</em></a> taken almost shot-for-shot and action-for-action from an 80s Hong Kong movie.</p>
+
+<p>Going back to games made 30 years ago and being &ldquo;disappointed&rdquo; shouldn&rsquo;t be surprising, because you&rsquo;re measuring them by the standards of today. Revisiting older games should be about inspiration, reminding yourself of how that game made you feel, and for figuring out how you can make games that make you feel that way again (or why the games you play now don&rsquo;t make you feel that way).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kindness]]></title>
@@ -568,52 +587,6 @@ Thankfully for me, they agreed.</p>
 the creation of. The fact that I still love to play the game after being
 involved with it for that length of time should say something about it&rsquo;s
 quality and longevity. I hope you enjoy playing it as much as I do.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sacrificing IP]]></title>
-    <link href="http://dwlt.github.io/blog/2011/08/17/sacrificing-ip/"/>
-    <updated>2011-08-17T00:00:00+01:00</updated>
-    <id>http://dwlt.github.io/blog/2011/08/17/sacrificing-ip</id>
-    <content type="html"><![CDATA[<p>There was a bit of a stramash last week regarding who <a href="http://www.gamesindustry.biz/articles/2011-08-11-indies-need-to-give-up-ip-to-get-funding-rebelplay">gets to own the Intellectual Property</a> (registration required)
-rights to games when someone other than the creator is paying for it. Good way
-to get publicity for a new publisher, some might say.</p>
-
-<p>As you might expect, there was a mix of outrage, agreement, indifference and
-factual error in the comments that followed the article. Given that the most
-common question I&rsquo;m asked in my role at the <a href="http://www.culturalenterprise.co.uk/">Cultural Enterprise Office</a> is &ldquo;Where can I get money?&rdquo;,
-there were a surprising number of people prepared to turn down the chance to
-get their product made.</p>
-
-<p>There&rsquo;s a truism thrown around that game creators must maintain control over
-their IP at all costs. It&rsquo;s certainly true that the only way you can build a
-sustainable games company is to retain as many rights to as many things as
-possible, but you also need a plan that actively builds that value. Simply
-making a game and releasing it will technically provide you with some IP, but
-if no one knows it exists is it actually valuable?</p>
-
-<p>Sometimes, it&rsquo;s worth sacrificing IP to reach your ultimate destination. Pixar
-never owned the IP in <em>Toy Story</em>. It was all transferred to Disney in the
-funding deal for the film. Pixar did retain several royalty streams as part of
-the deal (including merchandise, which for some reason no one at Disney
-thought would be a big deal in a movie about toys), but Disney had full
-control over when or if a sequel would happen, for example. The clue that
-there was a masterplan at work is the clause that stated Pixar&rsquo;s logo would be
-given equal prominence to the Disney logo in all promotional materials.</p>
-
-<p>When Pixar filed to go public (their IPO date was the week after <em>Toy Story</em>
-was due to open), they explicitly stated they wanted to build the next big
-consumer facing movie brand of note. A brand that acted as a stamp of quality
-and expectation in the same way as Disney, for example (the only other
-example). I&rsquo;d say they certainly managed to achieve that, given that more than
-five years after Disney acquired them, the name &ldquo;Pixar&rdquo; lives on above the
-film name.</p>
-
-<p>Not owning the IP to <em>Toy Story</em> didn&rsquo;t hold Pixar back, but they had a clear
-understanding of why it didn&rsquo;t matter quite so much at that point. So, by all
-means negotiate to keep your IP, but make sure you have a clear understanding
-of what you&rsquo;re negotiating for.</p>
 ]]></content>
   </entry>
   
