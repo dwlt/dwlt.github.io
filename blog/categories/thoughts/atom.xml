@@ -4,7 +4,7 @@
   <title><![CDATA[Category: thoughts | dwlt.thinksOutLoud]]></title>
   <link href="http://dwlt.github.io/blog/categories/thoughts/atom.xml" rel="self"/>
   <link href="http://dwlt.github.io/"/>
-  <updated>2014-12-03T09:18:53+00:00</updated>
+  <updated>2014-12-11T12:49:07+00:00</updated>
   <id>http://dwlt.github.io/</id>
   <author>
     <name><![CDATA[David Thomson]]></name>
@@ -20,9 +20,7 @@
     <id>http://dwlt.github.io/blog/2014/04/24/how-early-is-too-early</id>
     <content type="html"><![CDATA[<p>Reading <a href="http://www.eurogamer.net/articles/2014-04-24-can-godus-be-fixed">&ldquo;Can Godus be fixed?&rdquo;</a> by Christian Donlan this morning on Eurogamer, a section of the last paragraph stood out:</p>
 
-<p>{% blockquote %}
-In truth, it&rsquo;s still hard to pin down what, if anything, 22Cans actually wants Godus to be. It&rsquo;s probably often this way in development. Maybe a team really needs to &ldquo;experiment, fail, and experiment again,&rdquo; to quote Molyneux, even if that&rsquo;s under the harsh, critical glare provided by hundreds of customers who have already paid up for the ride.
-{% endblockquote %}</p>
+<p><blockquote><p>In truth, it&rsquo;s still hard to pin down what, if anything, 22Cans actually wants Godus to be. It&rsquo;s probably often this way in development. Maybe a team really needs to &ldquo;experiment, fail, and experiment again,&rdquo; to quote Molyneux, even if that&rsquo;s under the harsh, critical glare provided by hundreds of customers who have already paid up for the ride.</p></blockquote></p>
 
 <p>I haven&rsquo;t followed Godus particularly closely (read: at all), but the above strikes me as a failure to manage expectations (on all sides). Reading the comments on the article further reinforces this, with some defending the current state of the game and others feeling like they&rsquo;ve been cheated because they already paid up for it.</p>
 
